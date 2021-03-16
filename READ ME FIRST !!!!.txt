@@ -1,0 +1,17 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+" USER  "
+username : henry
+Passowrd : 123456789Henry      ( NOTE:"H" is captial )
+
+
+For " ADMIN " login provide the given username and password
+username : admin
+Passowrd : admin
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "attendance_management.sql" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+
+
+
